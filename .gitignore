@@ -1,0 +1,12 @@
+training_csv
+environment_test
+dataset
+data
+test
+__pycache__
+trained_model
+
+*.ipynb
+*.npy
+.vscode
+libras.json
