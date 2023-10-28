@@ -20,7 +20,6 @@ for token in tokens:
             frame_sequence.append(res)
         
         if len(frame_sequence) > 0:
-            print(frame_sequence)
             sequences.append(frame_sequence)
             labels.append(classes[token])
         
